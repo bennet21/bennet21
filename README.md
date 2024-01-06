@@ -2,6 +2,8 @@
 
 I am a Climate Physics Master Student at Utrecht University in the Netherlands. Here, I am sharing a selection of the projects I worked on as part of my studies, often collaborating with other fellow students.
 
+Besides to my own repositories, some of my projects can be found in the CLPHUU organization which I have pinned.
+
 <!--
 **bennet21/bennet21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
