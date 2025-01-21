@@ -1,6 +1,6 @@
 ### Hello World 🌍
 
-I am a Climate Physics Master Student at Utrecht University in the Netherlands. Here, I am sharing a selection of the projects I worked on as part of my studies, often collaborating with other fellow students.
+Now a doctoral researcher at Potsdam Institute for Climate Impact Research (PIK). Previously a Climate Physics Master Student at Utrecht University in the Netherlands until 2024. Here, I am sharing a selection of the projects I worked on as part of my studies, often collaborating with other fellow students.
 
 Besides my own repositories, some projects I worked on can be found in the CLPHUU organization which I have pinned.
 
